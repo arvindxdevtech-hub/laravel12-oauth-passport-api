@@ -1,4 +1,4 @@
-# Laravel 12 Passport Authentication API
+# Laravel 12 Passport oauth Authentication API
 
 A complete REST Authentication API built with Laravel 12 and Laravel Passport.
 
