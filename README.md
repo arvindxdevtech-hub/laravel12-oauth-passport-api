@@ -268,7 +268,8 @@ User Created
 Access Token Generated
 ```
 
-> 📸 **Add Screenshot:** `docs/screenshots/register-success.png`
+> 📸 **Add Screenshot:**
+> ![Create User - Register](docs/screenshots/register-success.png)
 
 ---
 
@@ -286,7 +287,8 @@ Response
 JWT Token
 ```
 
-> 📸 **Add Screenshot:** `docs/screenshots/login-success.png`
+> 📸 **Add Screenshot:**
+> ![User - Login](docs/screenshots/login-success.png)
 
 ---
 
@@ -302,7 +304,8 @@ Authorization
 
 Bearer Token Required
 
-> 📸 **Add Screenshot:** `docs/screenshots/profile-success.png`
+> 📸 **Add Screenshot:**
+> ![User - Profile](docs/screenshots/profile-success.png)
 
 ---
 
@@ -316,7 +319,8 @@ POST
 
 Bearer Token Required
 
-> 📸 **Add Screenshot:** `docs/screenshots/logout-success.png`
+> 📸 **Add Screenshot:**
+> ![User - Logout](docs/screenshots/logout-success.png)
 
 ---
 
