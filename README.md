@@ -46,8 +46,6 @@ Laravel Passport
 
 MySQL
 
-XAMPP
-
 Postman
 
 PHPUnit (for API Testing)
