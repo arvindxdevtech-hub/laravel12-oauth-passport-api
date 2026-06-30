@@ -77,6 +77,9 @@ database/
 tests/
 
 ---
+# Code Clean-up - check include this file Structure
+ ![Create User - Register](docs/screenshots/Code-Clean-up.png)
+---
 
 # Architecture
 
